@@ -20,5 +20,9 @@ public class Main {
         sNT2.kiemTra();
         System.out.println("hello123");
         System.out.println("đặng thanh phương");
+                System.out.println("đặng thanh phương");
+        System.out.println("đặng thanh phương");
+        System.out.println("đặng thanh phương");
+
     }
 }
