@@ -15,5 +15,4 @@ class SNT {
         }
         System.out.println(ketQua);
     }
-    sou
 }
